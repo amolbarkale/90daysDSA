@@ -1,3 +1,5 @@
+// Q] Reverse the given array
+
 // let arr = [4, 5, 1, 2];
 let arr = [599,12,65,89,555];
 
@@ -8,4 +10,4 @@ while (start < end) {
     start++;
      end--;
 }
-console.log('arr:', arr)
+console.log('arr:', arr);

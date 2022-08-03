@@ -1,3 +1,4 @@
+// Q] Find the Maximum or minimum int. from the array
 
 // let arr = [1,23,-556,89,78,45,12];
 // let arr = [1, 556, -556];
